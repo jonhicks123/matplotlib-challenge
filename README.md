@@ -12,7 +12,7 @@ Acting as a senior data analyst at a pharmaceutical company, I analyzed the data
   
 - The sample size was split almost evenly between female and male mice, with male mice at 51% of the sample size and females at 49%. Something that would be interesting to analyze would be the reduction rate of males compared to females to see whether males and females had relatively similar tumor-size reduction rates or if one gender specifically had better succes than the other.
 
-### Process of the Study
+### Process of the Analysis
 
 Joining both datasets and checking to see if any mice had duplicate time points, and removing any mice that did by dropping the mouse ID from the data. Only 1 mouse had duplicate timepoints, so the cleaned dataset used for the study consisted of 248 mice.
 
