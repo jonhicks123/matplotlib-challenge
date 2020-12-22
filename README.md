@@ -2,7 +2,7 @@
 
 #### Background of the Study
 
-Acting as a senior data analyst at a pharmaceutical company, I analyzed the data of a study containing 249 mice which were identified with SCC tumor growth. The mice were treated  through a variety of drug regimens over the course of 45 days, and their tumor developments were observed and measured to identify the rate of tumor reductions as well as the effectiveness of the drug regimen. Pymaceuticals' drug of interest is Capomulin, so the main purpose of this study was to compare the effectiveness of other treatment regimens to see if any other treatments should be further researched and developed. 
+Acting as a senior data analyst at a pharmaceutical company, I analyzed the data of a study containing 249 mice which were identified with SCC tumor growth. The mice were treated  through a variety of drug regimens over the course of 45 days, and their tumor developments were observed and measured to identify the rate of tumor reductions as well as the effectiveness of the drug regimen. Pymaceuticals' drug of interest is Capomulin, so the main purpose of this study was to compare the effectiveness of other treatment regimens to see if any of them should be further researched and tested. 
 
 ## Observations and Insights
 
