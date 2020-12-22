@@ -22,7 +22,7 @@ With the cleaned data, I conducted the following tasks:
 
 - Create a bar plot showing the total number of measurements taken for each treatment regimen across the duration of the study. I created 2 identical bar plots by using Panda's DataFrame.plot method as well as Matplotlib's pyplot method.
 
-_ Created a pie plot showing the percentage of mice in the study which were male and female. I created 2 identical pie plots by using Panda's DataFrame.plot method as well as Matplotlib's pyplot method.
+- Created a pie plot showing the percentage of mice in the study which were male and female. I created 2 identical pie plots by using Panda's DataFrame.plot method as well as Matplotlib's pyplot method.
 
 - Narrowed the data down to four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. With this data, I calculated the final tumor volume of each mouse, the quartiles, and IQR to check for outliers across the treatment regimens.
 
